@@ -1,0 +1,13 @@
+pwd
+ll
+ls
+gccc -v
+gcc -v
+g++ -std=c++11 -ggdb find_loop_entry.cpp 
+g++ -std=c++11 -ggdb find_loop_entry.cpp 
+g++ -std=c++11 -ggdb find_loop_entry.cpp 
+g++ -std=c++11 -ggdb find_loop_entry.cpp 
+g++ -std=c++11 -ggdb find_loop_entry.cpp 
+g++ -std=c++11 -ggdb find_loop_entry.cpp 
+g++ -std=c++11 -ggdb find_loop_entry.cpp 
+./a.out.dSYM/
